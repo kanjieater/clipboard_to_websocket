@@ -1,4 +1,4 @@
-# clip_to_ws1
+# clipboard_to_websocket
 
 Run with:
 `python __init__.py`
