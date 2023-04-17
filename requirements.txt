@@ -1,0 +1,2 @@
+pyperclip==1.8.2
+websockets==11.0.1
